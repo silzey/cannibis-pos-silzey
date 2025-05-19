@@ -1,0 +1,12 @@
+export const cannabisImages = [
+  "https://cdn.pixabay.com/photo/2017/08/10/03/47/marijuana-2617179_1280.jpg",
+  "https://cdn.pixabay.com/photo/2016/11/21/15/47/marijuana-1849088_1280.jpg",
+  "https://cdn.pixabay.com/photo/2018/07/01/19/48/cannabis-3519296_1280.jpg",
+  "https://cdn.pixabay.com/photo/2020/07/10/00/32/marijuana-5389734_1280.jpg",
+  "https://cdn.pixabay.com/photo/2022/03/28/20/11/cannabis-7098434_1280.jpg",
+  "https://cdn.pixabay.com/photo/2019/07/05/17/40/cannabis-4317762_1280.jpg",
+  "https://cdn.pixabay.com/photo/2018/08/23/08/59/cannabis-3623487_1280.jpg",
+  "https://cdn.pixabay.com/photo/2018/06/26/10/00/cannabis-3495415_1280.jpg",
+  "https://cdn.pixabay.com/photo/2017/06/30/04/28/weed-2459213_1280.jpg",
+  "https://cdn.pixabay.com/photo/2019/07/03/11/00/cannabis-4312111_1280.jpg"
+];
