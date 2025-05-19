@@ -1,0 +1,5 @@
+export const categories = [
+  "Flower", "Concentrates", "Vapes", "Edibles", "Topicals",
+  "Tinctures", "Wellness", "Accessories", "Product Deals",
+  "Specialty Cannabinoids", "Pre-Rolls", "Deals"
+];
