@@ -1,0 +1,19 @@
+my-cannabis-shop/
+├── public/
+│   └── images/
+│       ├── cannabis1.jpg
+│       ├── cannabis2.jpg
+│       ├── cannabis3.jpg
+│       ├── cannabis4.jpg
+│       └── cannabis5.jpg
+├── src/
+│   ├── components/
+│   │   ├── Card.jsx
+│   │   ├── Tabs.jsx
+│   │   ├── ScrollArea.jsx
+│   │   └── FloatingCart.jsx
+│   └── pages/
+│       └── ShopPage.jsx
+├── package.json
+├── README.md
+└── vite.config.js (or next.config.js)
